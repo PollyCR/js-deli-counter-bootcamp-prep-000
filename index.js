@@ -6,4 +6,4 @@ function currentLine() {
   return('The line is currently empty.')
 } else {
   for(var i = 0; i < x; i++)
-}
+line+=
