@@ -7,4 +7,5 @@ function currentLine() {
 } else {
   for(var i = 0; i < x; i++) 
   line += (i + 1) + '.' + x[i] + ','
+  line = line.slice()
 }
