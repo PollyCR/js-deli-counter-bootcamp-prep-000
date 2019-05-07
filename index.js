@@ -12,6 +12,6 @@ function currentLine(x) {
 }
 }
 
-function takeANumber(x) {
-  var
+function takeANumber(katzDeliLine,name) {
+  
 }
