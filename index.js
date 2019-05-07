@@ -1,1 +1,2 @@
-var = katzDeliLine[]
+var katzDeliLine = [];
+
