@@ -23,7 +23,8 @@ function nowServing(x) {
     return('There is nobody waiting to be served!')
   } else {
     var name = x[0]
-    x.splice(0,1)
+    x.splice(0,1);
+    
     
   }
   
