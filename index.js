@@ -1,2 +1,5 @@
 var katzDeliLine = [];
 
+function currentLine() {
+  
+}
