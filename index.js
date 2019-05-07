@@ -11,3 +11,7 @@ function currentLine(x) {
   return('The line is currently:' + line)
 }
 }
+
+function takeANumber(x) {
+  var
+}
