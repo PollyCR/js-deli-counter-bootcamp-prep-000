@@ -1,6 +1,6 @@
 var katzDeliLine = [];
 
-function currentLine() {
+function currentLine(line) {
   var line = []
   if (x.length===0) {
   return('The line is currently empty.')
