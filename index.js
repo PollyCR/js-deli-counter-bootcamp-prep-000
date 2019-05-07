@@ -7,12 +7,12 @@ function currentLine(x) {
 } else {
   for(var i = 0; i < x; i++) 
   line += (i + 1) + '.' + x[i] + ','
-  line = line.slice(0, lineLength-2)
+  line = line.slice(0, line.length-2)
   return('The line is currently:' + line)
 }
 }
 
 function takeANumber(katzDeliLine,name) {
   katzDeliLine.push(name)
-  return('Welcome,' + name + '. You are' + katzDeliLine.length + 'in line.')
+  return('Welcome, ' + name + '. You are number ' + katzDeliLine.length + 'in line.')
 }
