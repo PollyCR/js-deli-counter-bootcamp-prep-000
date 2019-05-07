@@ -13,5 +13,5 @@ function currentLine(x) {
 }
 
 function takeANumber(katzDeliLine,name) {
-  
+  katzDeliLine.push(name)
 }
